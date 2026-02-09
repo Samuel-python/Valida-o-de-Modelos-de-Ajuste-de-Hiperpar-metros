@@ -1,4 +1,5 @@
-# Valida-o-de-Modelos-de-Ajuste-de-Hiperpar-metros# 🧠 Atividade – Módulo 13 | Validação de Modelos e Ajuste de Hiperparâmetros
+# Valida-o-de-Modelos-de-Ajuste-de-Hiperpar-metros# 
+🧠 Atividade – Módulo 13 | Validação de Modelos e Ajuste de Hiperparâmetros
 
 Este repositório contém uma atividade prática desenvolvida no **Módulo 13 do curso de Python / Ciência de Dados**, com foco em **validação de modelos**, **validação cruzada** e **ajuste de hiperparâmetros**, utilizando ferramentas do **scikit-learn**.
 
